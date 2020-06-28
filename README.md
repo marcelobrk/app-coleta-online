@@ -116,6 +116,8 @@ móveis.
   npm run start
 ```
 
-<p>
-  :-)
-</p>
+## **:page_with_curl: Licença**
+
+Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
+
+<h2>Feito com ❤️ por <a href="https://www.linkedin.com/in/marcelo1z">Marcelo Silva</a></h2>
