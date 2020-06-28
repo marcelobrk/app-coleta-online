@@ -4,7 +4,7 @@
 
 Projeto visa auxiliar a conexão entre empresas de coleta com pessoas que desejam descartar resíduos.
 
-# Ferramentas
+## **:rocket: Ferramentas**
 
 ```js
     const backend = [
